@@ -1,4 +1,4 @@
-﻿<!-- 
+<!-- 
   Melan Akash | Full Stack Developer | React | Next.js | Node.js | Flutter | AI/ML | Sri Lanka
   Open to: Freelance, Remote Jobs, Collaborations
   Skills: JavaScript, TypeScript, Python, Java, Go, React, Next.js, Node.js, Django, Flask, Spring Boot, Flutter, TensorFlow, PyTorch
@@ -66,6 +66,20 @@ I'm **Melan Akash**, a passionate **Full Stack Developer** and **Mobile App Deve
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=melan-Akash&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="165" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melan-Akash&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=melan-Akash&theme=github-dark&hide_border=true" height="150" />
+</div>
 
 ---
 
