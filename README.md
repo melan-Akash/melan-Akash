@@ -1,62 +1,94 @@
-﻿<h1 align="center">Hey, I'm Akash 👋</h1>
+﻿<div align="center">
 
-<p align="center">
-  <b>Full Stack Developer</b> · Building things for the web &amp; mobile
-</p>
+# Hi, I'm Melan Akash 👋
 
-<p align="center">
-  <a href="https://linkedin.com/in/melan-akash"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  &nbsp;
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://your-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" /></a>
-</p>
+### Associate Software Engineer · Full Stack & Mobile Developer
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-melanakash.vercel.app-black?style=for-the-badge&logo=vercel&logoColor=white)](https://melanakash.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melan-akash-5b5746402/)
+[![GitHub](https://img.shields.io/badge/GitHub-melan--Akash-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/melan-Akash)
 
-### 🧑‍💻 About Me
+📍 Sri Lanka &nbsp;|&nbsp; 🏢 [@CreantisWorld](https://github.com/CreantisWorld) &nbsp;|&nbsp; 🚀 1,090+ contributions in the last year
 
-- 🔭 Crafting full-stack web &amp; mobile apps with modern tooling
-- 🌱 Exploring **AI/ML** — TensorFlow, PyTorch &amp; intelligent systems
-- ⚡ Love shipping clean code that actually works in production
-- 📍 Based in Sri Lanka
+</div>
 
 ---
 
-### 🛠 Tech Stack
+## 🧑‍💻 About Me
+
+I'm a passionate **Full Stack & Mobile Developer** from Sri Lanka, crafting production-ready web and mobile experiences with a strong focus on **AI-powered applications**, clean architecture, and scalable systems.
+
+- 🔭 Currently building AI-powered full-stack products at **CreantisWorld**
+- 🌱 Deep-diving into **AI/ML** — LLM integration, TensorFlow & PyTorch
+- 💡 Love turning complex ideas into elegant, user-facing products
+- ⚡ **47 repositories** shipped — from video conferencing to cloud storage
+
+---
+
+## 🛠 Tech Stack
 
 **Frontend**
-&nbsp;
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 **Backend**
-&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000?style=flat&logo=flask)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+**Database & Cloud**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=flat-square&logo=amazon-s3&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 
 **AI / ML**
-&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=melan-Akash&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150" />
+| Project | Tech | Description |
+|---|---|---|
+| [🎥 Meetup — Video Meeting App](https://github.com/melan-Akash/Meetup_FullStackVideoMeetingApp_PERN-Stack) | PERN · WebRTC · Socket.io | AI-powered video conferencing with live chat translation & collaborative whiteboard |
+| [☁️ Drivea — Cloud Storage](https://github.com/melan-Akash/full-stack-cloud-storage-application) | React 19 · Express 5 · AWS S3 | Production-ready Google Drive alternative with Neon PostgreSQL |
+| [🤖 AI Resume Builder](https://github.com/melan-Akash/Resume-Builder) | MERN · Gemini AI | ATS-optimized resume builder with AI analysis — ⭐ 3 stars |
+| [📱 Real-Time Chat Mobile](https://github.com/melan-Akash/Real_Time_Chat_mobile) | React Native · WebSockets | Mobile chat with 24-hr stories & real-time messaging |
+| [🎬 AI Thumbnail Generator](https://github.com/melan-Akash/Ai_thambnail_site) | TypeScript · MERN | High-CTR YouTube thumbnails with AI-optimized layouts |
+| [🤖 AI Productivity Companion](https://github.com/melan-Akash/MERN-AI-website) | MERN · AI | Automates workflows & boosts efficiency — ⭐ 1 star |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=melan-Akash&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="165" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melan-Akash&layout=compact&theme=github_dark&hide_border=true" height="150" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melan-Akash&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=melan-Akash&theme=github-dark&hide_border=true" height="150" />
+</div>
 
 ---
 
-<p align="center">
-  <i>Open to collaborations &amp; interesting ideas — let's build something great.</i>
-</p>
+<div align="center">
+  <i>💬 Open to collaborations, freelance projects, and exciting opportunities — let's build something amazing together.</i>
+  <br/><br/>
+  <a href="https://melanakash.vercel.app">🌐 melanakash.vercel.app</a>
+</div>
