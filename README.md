@@ -2,7 +2,7 @@
 
 # Hi, I'm Melan Akash 👋
 
-### Associate Software Engineer · Full Stack & Mobile Developer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+%26+Mobile+Developer;AI%2FML+Enthusiast+%F0%9F%A4%96;Building+products+at+CreantisWorld+%F0%9F%9A%80;Open+to+Collabs+%26+Freelance+%F0%9F%92%BC)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-melanakash.vercel.app-black?style=for-the-badge&logo=vercel&logoColor=white)](https://melanakash.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melan-akash-5b5746402/)
