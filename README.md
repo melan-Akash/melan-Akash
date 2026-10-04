@@ -19,7 +19,7 @@
 - 🔭 Crafting full-stack web &amp; mobile apps with modern tooling
 - 🌱 Exploring **AI/ML** — TensorFlow, PyTorch &amp; intelligent systems
 - ⚡ Love shipping clean code that actually works in production
-- 📍 Based in India
+- 📍 Based in Sri Lanka
 
 ---
 
