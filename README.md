@@ -1,3 +1,9 @@
+﻿<!-- 
+  Melan Akash | Full Stack Developer | React | Next.js | Node.js | Flutter | AI/ML | Sri Lanka
+  Open to: Freelance, Remote Jobs, Collaborations
+  Skills: JavaScript, TypeScript, Python, Java, Go, React, Next.js, Node.js, Django, Flask, Spring Boot, Flutter, TensorFlow, PyTorch
+-->
+
 <div align="center">
 
 # Hi, I'm Melan Akash 👋
@@ -16,18 +22,21 @@
 
 ## 🧑‍💻 About Me
 
-I'm a passionate **Full Stack & Mobile Developer** from Sri Lanka, crafting production-ready web and mobile experiences with a strong focus on **AI-powered applications**, clean architecture, and scalable systems.
+I'm **Melan Akash**, a passionate **Full Stack Developer** and **Mobile App Developer** from Sri Lanka. I specialize in building scalable, production-ready web applications and mobile apps using modern technologies like **React**, **Next.js**, **Node.js**, **Flutter**, and **Python**. I also build intelligent systems powered by **AI and Machine Learning**.
 
-- 🔭 Currently building AI-powered full-stack products
+- 🔭 Currently building **AI-powered full-stack web & mobile applications**
 - 🌱 Deep-diving into **AI/ML** — LLM integration, TensorFlow & PyTorch
 - 💡 Love turning complex ideas into elegant, user-facing products
-- ⚡ **47 repositories** shipped — from video conferencing to cloud storage
+- ⚡ **47+ repositories** — from real-time video conferencing to cloud storage apps
+- 💼 Available for **freelance projects**, **remote work**, and **open-source collaborations**
+
+> 🔑 **Keywords:** Full Stack Developer · React Developer · Next.js · Node.js · Flutter Developer · AI Engineer · Python Developer · Sri Lanka Developer · Remote Developer · JavaScript · TypeScript
 
 ---
 
 ## 🛠 Tech Stack
 
-**Frontend**
+**Frontend** — React, Next.js, TypeScript, JavaScript, Flutter
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -35,7 +44,7 @@ I'm a passionate **Full Stack & Mobile Developer** from Sri Lanka, crafting prod
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-**Backend**
+**Backend** — Node.js, Express, Django, Flask, Spring Boot, Go
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
@@ -44,21 +53,19 @@ I'm a passionate **Full Stack & Mobile Developer** from Sri Lanka, crafting prod
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
-**Database & Cloud**
+**Database & Cloud** — PostgreSQL, MongoDB, AWS S3, Cloudinary
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=flat-square&logo=amazon-s3&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 
-**AI / ML**
+**AI / ML** — Python, TensorFlow, PyTorch, Gemini AI
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
-
-
 
 ---
 
