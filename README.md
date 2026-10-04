@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 # Hi, I'm Melan Akash 👋
 
@@ -58,32 +58,7 @@ I'm a passionate **Full Stack & Mobile Developer** from Sri Lanka, crafting prod
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
 
----
 
-## 🚀 Featured Projects
-
-| Project | Tech | Description |
-|---|---|---|
-| [🎥 Meetup — Video Meeting App](https://github.com/melan-Akash/Meetup_FullStackVideoMeetingApp_PERN-Stack) | PERN · WebRTC · Socket.io | AI-powered video conferencing with live chat translation & collaborative whiteboard |
-| [☁️ Drivea — Cloud Storage](https://github.com/melan-Akash/full-stack-cloud-storage-application) | React 19 · Express 5 · AWS S3 | Production-ready Google Drive alternative with Neon PostgreSQL |
-| [🤖 AI Resume Builder](https://github.com/melan-Akash/Resume-Builder) | MERN · Gemini AI | ATS-optimized resume builder with AI analysis — ⭐ 3 stars |
-| [📱 Real-Time Chat Mobile](https://github.com/melan-Akash/Real_Time_Chat_mobile) | React Native · WebSockets | Mobile chat with 24-hr stories & real-time messaging |
-| [🎬 AI Thumbnail Generator](https://github.com/melan-Akash/Ai_thambnail_site) | TypeScript · MERN | High-CTR YouTube thumbnails with AI-optimized layouts |
-| [🤖 AI Productivity Companion](https://github.com/melan-Akash/MERN-AI-website) | MERN · AI | Automates workflows & boosts efficiency — ⭐ 1 star |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=melan-Akash&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="165" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melan-Akash&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=melan-Akash&theme=github-dark&hide_border=true" height="150" />
-</div>
 
 ---
 
